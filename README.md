@@ -68,13 +68,9 @@ The dashboard enables stakeholders to track KPIs, identify top-performing produc
 
 ### 📷 Snapshot of Dashboard
 
-![dashboard_snapo](https://github.com/ashwinithigale03/Mobile-Sales-Dashboard/raw/main/Mobile%20Sales%20Dashboard1.png)
-
-### 📷 Snapshot of MTD Report
+1. ![dashboard_snapo](https://github.com/ashwinithigale03/Mobile-Sales-Dashboard/raw/main/Mobile%20Sales%20Dashboard1.png)
 
 ![dashboard_snapo](https://github.com/ashwinithigale03/Mobile-Sales-Dashboard/raw/main/Mobile%20Sales%20Dashboard2.png)
-
-### 📷 Snapshot of Same Period Last Year
 
 ![dashboard_snapo](https://github.com/ashwinithigale03/Mobile-Sales-Dashboard/raw/main/Mobile%20Sales%20Dashboard3.png)
 
