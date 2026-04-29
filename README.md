@@ -1,7 +1,5 @@
 # 📱 Mobile-Sales-Dashboard
 
-### Dashboard Link : https://github.com/ashwinithigale03/AQI-INDEX-ANALYSIS/blob/main/AQI%20INDEX%20ANALYSIS.pbix
-
 ### 📌 Project Overview
 
 This project presents an interactive Power BI dashboard designed to analyze mobile sales performance across multiple dimensions such as revenue, product categories, customer behavior, and time-based trends.
