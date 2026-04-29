@@ -70,11 +70,15 @@ The dashboard enables stakeholders to track KPIs, identify top-performing produc
 
 ![dashboard_snapo](https://github.com/ashwinithigale03/Mobile-Sales-Dashboard/raw/main/Mobile%20Sales%20Dashboard1.png)
 
+### 📷 Snapshot of MTD Report
+
 ![dashboard_snapo](https://github.com/ashwinithigale03/Mobile-Sales-Dashboard/raw/main/Mobile%20Sales%20Dashboard2.png)
+
+### 📷 Snapshot of Same Period Last Year
 
 ![dashboard_snapo](https://github.com/ashwinithigale03/Mobile-Sales-Dashboard/raw/main/Mobile%20Sales%20Dashboard3.png)
 
-📄 [View Full Report](https://github.com/ashwinithigale03/Mobile-Sales-Dashboard/raw/main/Mobile%20Sales%20Dashboard.pdf)
+### Download Report📄 [View Full Report](https://github.com/ashwinithigale03/Mobile-Sales-Dashboard/raw/main/Mobile%20Sales%20Dashboard.pdf)
 
 ### 📂 Project Workflow
 
